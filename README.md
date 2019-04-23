@@ -20,9 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-'''ruby
+```ruby
 SkeezyViewTool::Renderer.copyright 'Scott Young', 'All rights reserved'
-'''
+```
 
 ## Development
 
